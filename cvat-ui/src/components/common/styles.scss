@@ -55,3 +55,12 @@
     max-height: $grid-unit-size * 40;
     overflow-y: auto;
 }
+
+.cvat-logo-text {
+    font-size: 20px;
+    font-weight: bold;
+    color: #1890ff; // 원하시는 회사 색상
+    padding-right: 16px;
+    display: inline-block;
+    vertical-align: middle;
+}
